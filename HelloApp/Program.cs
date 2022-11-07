@@ -7,3 +7,4 @@ Console.WriteLine("hello everyone");
 >>>>>>> 9979720 (hello everyone)
 
 Console.WriteLine("hello black");
+Console.WriteLine("делаю изменинения")ж
